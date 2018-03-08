@@ -1,0 +1,25 @@
+[RESOURCES]
+[VARIABLES]
+Process 5.NumberOut
+Decide 2.NumberOut False
+Decide 1.NumberOut False
+Process 4.NumberOut
+Process 2.NumberOut
+Process 2.NumberIn
+Process 3.NumberIn
+serialnumber
+procfinal
+Process 1.NumberIn
+Batch 1.NumberOut
+Matéria.NumberOut
+Process 7.NumberOut
+Dispose 1.NumberOut
+procinicial
+Process 7.NumberIn
+Process 5.NumberIn
+Process 4.NumberIn
+Process 3.NumberOut
+inicio
+Process 1.NumberOut
+Decide 2.NumberOut True
+Decide 1.NumberOut True
