@@ -1,38 +1,15 @@
-
-----------------------------------------------------------------------
-11580:FOPEN
-Entity: 4
-A runtime error was detected at time 0.0 at the following block:
-
- *   43 fds_WH          WRITE,fds,"Duracao Total,Duracao P1,Duracao P2,Cenas,
-                            \n":
-                            ;
-
-The system error:
-  "Permission denied"
-occurred while processing file:
-  "C:\Users\Ricardo\Desktop\Modelo Arena\fds.csv"
-Possible cause: Invalid filename. Correct and retry.
-Possible cause: Too many files opened or insufficient free memory.
-You may want to try increasing the maximum files available to your
-operating system.
-----------------------------------------------------------------------
-
-
 SIMAN Run Controller.
 
-0.0 Hours>SIMAN Run Controller.
-
-598.32738 Hours>
+767.67723 Hours>
                                       ARENA Simulation Results
                                      Ricardo - License: STUDENT
 
                                   Summary for Replication 1 of 1
 
-Project: Unnamed Project                                             Run execution date : 3/ 8/2018
-Analyst: Ricardo                                                     Model revision date: 3/ 8/2018
+Project: Unnamed Project                                             Run execution date : 3/10/2018
+Analyst: Ricardo                                                     Model revision date: 3/10/2018
 
-Replication ended at time      : 598.32738 Hours 
+Replication ended at time      : 767.67723 Hours 
 Base Time Units: Hours
 
                                            TALLY VARIABLES
@@ -40,31 +17,31 @@ Base Time Units: Hours
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Entity 1.VATime                             384.70     (Insuf)    309.47     449.59         33    
-Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         33    
-Entity 1.WaitTime                           7.9648     (Insuf)    .44493     20.772         33    
-Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         33    
-Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         33    
-Entity 1.TotalTime                          216.03     (Insuf)    187.68     253.57         33    
-Batch 1.Queue.WaitingTime                   3.8689     (Insuf)    .00000     20.772         70    
+Entity 1.VATime                             339.16     (Insuf)    209.98     452.55         54    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         54    
+Entity 1.WaitTime                           5.2879     (Insuf)    .02062     28.569         54    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         54    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         54    
+Entity 1.TotalTime                          208.84     (Insuf)    118.55     256.92         54    
+Batch 1.Queue.WaitingTime                   2.7223     (Insuf)    .00000     28.569        112    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                30.812     (Insuf)    .00000     45.000     42.000    
-Batch 1.Queue.NumberInQueue                 .45264     (Insuf)    .00000     2.0000     .00000    
+Entity 1.WIP                                30.620     (Insuf)    .00000     45.000     34.000    
+Batch 1.Queue.NumberInQueue                 .40202     (Insuf)    .00000     2.0000     1.0000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Entity 1.NumberIn                           141.00    
-Entity 1.NumberOut                          99.000    
-System.NumberOut                            33.000    
+Entity 1.NumberIn                           196.00    
+Entity 1.NumberOut                          162.00    
+System.NumberOut                            54.000    
 
 
-Simulation run time: 0.20 minutes.
-Simulation run completed with 1 error(s) and 0 warning(s).
+Simulation run time: 0.12 minutes.
+Simulation run complete.
