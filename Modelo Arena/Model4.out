@@ -1,15 +1,925 @@
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 34
+A runtime error was detected at time 183.76405 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 36
+A runtime error was detected at time 209.51648 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 40
+A runtime error was detected at time 249.08384 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 41
+A runtime error was detected at time 256.8631 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 46
+A runtime error was detected at time 283.04739 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 48
+A runtime error was detected at time 288.24885 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 50
+A runtime error was detected at time 297.14102 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 51
+A runtime error was detected at time 300.82297 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 60
+A runtime error was detected at time 334.06919 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 61
+A runtime error was detected at time 351.79742 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 63
+A runtime error was detected at time 362.33022 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 69
+A runtime error was detected at time 404.36483 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 75
+A runtime error was detected at time 427.74564 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 81
+A runtime error was detected at time 447.93667 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 86
+A runtime error was detected at time 467.97457 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 92
+A runtime error was detected at time 492.04328 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 96
+A runtime error was detected at time 515.34101 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 100
+A runtime error was detected at time 535.45273 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 107
+A runtime error was detected at time 561.19067 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 118
+A runtime error was detected at time 592.41465 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 120
+A runtime error was detected at time 603.1633 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 125
+A runtime error was detected at time 626.36222 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 132
+A runtime error was detected at time 644.07201 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 140
+A runtime error was detected at time 670.59269 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 142
+A runtime error was detected at time 696.43656 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 147
+A runtime error was detected at time 708.86006 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 148
+A runtime error was detected at time 724.62765 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 150
+A runtime error was detected at time 736.24033 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 757.7591 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 778.62601 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 782.34306 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 788.70117 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 816.64134 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 821.28972 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 839.9359 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 859.57699 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 866.32991 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 879.56906 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 894.29675 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 919.14898 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 937.77712 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 949.05577 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 990.80036 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1011.0246 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1035.0547 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1046.9047 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1047.3401 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1059.9867 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1068.3763 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1089.6529 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1113.3698 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1120.7644 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1143.1526 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1166.502 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1187.7897 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1189.2841 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1204.1814 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1205.3824 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1227.9959 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1238.9559 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1239.9657 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1247.8019 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+A runtime error was detected at time 1275.9298 at the following block:
+
+ *   37 191$            WRITE,eventLog,"%s,":Entity.Station:NEXT(175$);
+
+Data type mismatch.
+Value: 0.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
 SIMAN Run Controller.
 
-767.67723 Hours>
+1279.686 Hours>
                                       ARENA Simulation Results
                                      Ricardo - License: STUDENT
 
                                   Summary for Replication 1 of 1
 
-Project: Unnamed Project                                             Run execution date : 3/10/2018
-Analyst: Ricardo                                                     Model revision date: 3/10/2018
+Project: Unnamed Project                                             Run execution date : 3/14/2018
+Analyst: Ricardo                                                     Model revision date: 3/14/2018
 
-Replication ended at time      : 767.67723 Hours 
+Replication ended at time      : 1279.686 Hours 
 Base Time Units: Hours
 
                                            TALLY VARIABLES
@@ -17,31 +927,38 @@ Base Time Units: Hours
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Entity 1.VATime                             339.16     (Insuf)    209.98     452.55         54    
-Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         54    
-Entity 1.WaitTime                           5.2879     (Insuf)    .02062     28.569         54    
-Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         54    
-Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         54    
-Entity 1.TotalTime                          208.84     (Insuf)    118.55     256.92         54    
-Batch 1.Queue.WaitingTime                   2.7223     (Insuf)    .00000     28.569        112    
+Entity 1.VATime                             388.28     (Insuf)    294.59     463.42         63    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         63    
+Entity 1.WaitTime                           154.22     (Insuf)    .63796     694.99         63    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         63    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         63    
+Entity 1.TotalTime                          349.34     (Insuf)    182.03     859.53         63    
+Process 8.Queue.WaitingTime                 356.62     (Insuf)    .00000     774.48         32    
+Batch 1.Queue.WaitingTime                   4.1927     (Insuf)    .00000     39.563        130    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                30.620     (Insuf)    .00000     45.000     34.000    
-Batch 1.Queue.NumberInQueue                 .40202     (Insuf)    .00000     2.0000     1.0000    
+Entity 1.WIP                                58.968     (Corr)     .00000     111.00     110.00    
+Resource 1.NumberBusy                       .95808     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .95808     (Insuf)    .00000     1.0000     1.0000    
+Process 8.Queue.NumberInQueue               31.076     (Insuf)    .00000     73.000     73.000    
+Batch 1.Queue.NumberInQueue                 .42593     (Insuf)    .00000     2.0000     .00000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Entity 1.NumberIn                           196.00    
-Entity 1.NumberOut                          162.00    
-System.NumberOut                            54.000    
+Entity 1.NumberIn                           299.00    
+Entity 1.NumberOut                          189.00    
+Resource 1.NumberSeized                     32.000    
+Resource 1.ScheduledUtilization             .95808    
+System.NumberOut                            63.000    
 
 
-Simulation run time: 0.12 minutes.
-Simulation run complete.
+Simulation run time: 0.17 minutes.
+Simulation run completed with 63 error(s) and 0 warning(s).

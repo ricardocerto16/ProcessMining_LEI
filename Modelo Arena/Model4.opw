@@ -1,4 +1,5 @@
 [RESOURCES]
+Resource 1
 [VARIABLES]
 Decide 1.NumberOut False
 Decide 2.NumberOut False
@@ -11,6 +12,7 @@ procfinal
 Process 1.NumberIn
 Batch 1.NumberOut
 segundosinicial
+Process 8.NumberIn
 anoinicial
 Matéria.NumberOut
 mesinicial
@@ -21,6 +23,7 @@ procinicial
 Process 7.NumberIn
 Process 4.NumberIn
 minutosinicial
+Process 8.NumberOut
 Process 3.NumberOut
 inicio
 Process 1.NumberOut

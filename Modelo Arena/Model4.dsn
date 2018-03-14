@@ -9,5 +9,5 @@ MaxScanRows=8
 MaxBufferSize=2048
 FIL=MS Access
 DriverId=281
-DefaultDir=c:\Users\Ricardo\Desktop\Modelo Arena
-DBQ=C:\Users\Ricardo\Desktop\Modelo Arena\Model4.accdb
+DefaultDir=C:\Users\Ricardo\Documents\GitHub\DataMining_LEI\Modelo Arena
+DBQ=C:\Users\Ricardo\Documents\GitHub\DataMining_LEI\Modelo Arena\Model4.accdb
