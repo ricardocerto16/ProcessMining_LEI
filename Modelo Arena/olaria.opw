@@ -1,0 +1,67 @@
+[RESOURCES]
+Barro
+[VARIABLES]
+Armazem.NumberOut
+Funcionario2.NumberOut False
+Maquina 3.4.NumberIn
+Maquina 3.3.NumberIn
+Maquina 3.2.NumberIn
+Maquina 3.1.NumberIn
+Maquina 2.3.NumberIn
+Maquina 2.2.NumberIn
+Maquina 2.1.NumberIn
+Maquina 1.5.NumberIn
+Maquina 1.4.NumberIn
+Maquina 1.3.NumberIn
+Maquina 1.1.NumberIn
+Maquina 1.2.NumberIn
+Maquina 3.4.NumberOut
+Maquina 3.3.NumberOut
+Maquina 3.2.NumberOut
+Maquina 3.1.NumberOut
+Maquina 2.3.NumberOut
+Maquina 2.2.NumberOut
+Maquina 2.1.NumberOut
+Maquina 1.5.NumberOut
+Maquina 1.4.NumberOut
+Maquina 1.3.NumberOut
+Maquina 1.1.NumberOut
+Maquina 1.2.NumberOut
+TempoMaquina3.1
+TempoMaquina3.2
+TempoMaquina3.3
+TempoMaquina3.4
+Funcionario2.NumberOut True
+TempoMaquina1.4
+TempoMaquina1.5
+TempoMaquina1.2
+TempoMaquina1.3
+TempoMaquina1.1
+Maquina31
+Maquina32
+Maquina33
+Maquina34
+Maquina14
+Maquina15
+Maquina12
+Maquina13
+Maquina11
+TempoMaquina2.3
+TempoMaquina2.2
+TempoMaquina2.1
+TempoInicioMaquina1.5
+TempoInicioMaquina1.4
+TempoInicioMaquina1.3
+TempoInicioMaquina1.2
+TempoInicioMaquina1.1
+TempoInicioMaquina2.3
+TempoInicioMaquina2.2
+TempoInicioMaquina2.1
+TempoInicioMaquina3.4
+TempoInicioMaquina3.3
+TempoInicioMaquina3.2
+TempoInicioMaquina3.1
+Maquina23
+Maquina22
+Maquina21
+PedidoFabrico.NumberOut
