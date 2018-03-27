@@ -9,5 +9,5 @@ MaxScanRows=8
 MaxBufferSize=2048
 FIL=MS Access
 DriverId=281
-DefaultDir=c:\Users\Marco Barbosa\Desktop
-DBQ=C:\Users\Marco Barbosa\Desktop\Test.accdb
+DefaultDir=C:\Users\Ricardo\Documents\GitHub\DataMining_LEI\Teste
+DBQ=C:\Users\Ricardo\Documents\GitHub\DataMining_LEI\Teste\Test.accdb
