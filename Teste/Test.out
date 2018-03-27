@@ -1,0 +1,62 @@
+SIMAN Run Controller.
+
+15.139224 Hours>
+                                      ARENA Simulation Results
+                                      Marco - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/26/2018
+Analyst: Marco                                                       Model revision date: 3/26/2018
+
+Replication ended at time      : 15.139224 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .80179     (Insuf)    .65290     1.0309          8    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000          8    
+Entity 1.WaitTime                           7.3896     (Insuf)    3.2201     11.839          8    
+Entity 1.TranTime                           5.5556E-05 (Insuf)    5.5556E-05 5.5556E-05      8    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000          8    
+Entity 1.TotalTime                          8.1914     (Insuf)    3.8731     12.854          8    
+Maquina1.7.Queue.WaitingTime                4.9383     (Insuf)    4.8796     4.9970          2    
+Maquina1.6.Queue.WaitingTime                3.3421     (Insuf)    2.1581     4.4581          6    
+Maquina1.5.Queue.WaitingTime                4.4032     (Insuf)    3.0725     5.3036          5    
+Maquina1.4.Queue.WaitingTime                3.7945     (Insuf)    1.0620     5.3491          5    
+Maquina1.3.Queue.WaitingTime                3.3568     (Insuf)    1.7155     6.1171         14    
+Maquina1.2.Queue.WaitingTime                3.2253     (Insuf)    .00000     5.8572         31    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                23.682     (Insuf)    .00000     41.000     41.000    
+Barro.NumberBusy                            1.0000     (Insuf)    .00000     1.0000     1.0000    
+Barro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Barro.Utilization                           1.0000     (Insuf)    .00000     1.0000     1.0000    
+Maquina1.7.Queue.NumberInQueue              1.1483     (Insuf)    .00000     3.0000     3.0000    
+Maquina1.6.Queue.NumberInQueue              2.3173     (Insuf)    .00000     5.0000     5.0000    
+Maquina1.5.Queue.NumberInQueue              1.9928     (Insuf)    .00000     4.0000     2.0000    
+Maquina1.4.Queue.NumberInQueue              2.0970     (Insuf)    .00000     6.0000     6.0000    
+Maquina1.3.Queue.NumberInQueue              4.4526     (Insuf)    .00000     7.0000     6.0000    
+Maquina1.2.Queue.NumberInQueue              10.673     (Insuf)    .00000     19.000     18.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           49.000    
+Entity 1.NumberOut                          8.0000    
+Barro.NumberSeized                          63.000    
+Barro.ScheduledUtilization                  1.0000    
+System.NumberOut                            8.0000    
+
+
+Simulation run time: 0.18 minutes.
+Simulation run complete.
