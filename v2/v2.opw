@@ -1,0 +1,36 @@
+[RESOURCES]
+Barro
+[VARIABLES]
+Decide 9.NumberOut False
+Maquina1.8.NumberOut
+Maquina1.2.NumberOut
+Maquina1.9.NumberOut
+Maquina1.4.NumberOut
+TempoMaquina1.1
+Maquina1.5.NumberOut
+Create 5.NumberOut
+Create 4.NumberOut
+Create 1.NumberOut
+Maquina18
+Maquina19
+Maquina16
+Maquina17
+Maquina14
+Maquina15
+Maquina12
+Maquina13
+Maquina11
+Dispose 1.NumberOut
+Maquina1.3.NumberOut
+EstacaoA
+Maquina1.8.NumberIn
+Maquina1.9.NumberIn
+Maquina1.7.NumberIn
+Maquina1.6.NumberIn
+Maquina1.5.NumberIn
+Maquina1.2.NumberIn
+Maquina1.4.NumberIn
+Maquina1.3.NumberIn
+Maquina1.7.NumberOut
+Maquina1.6.NumberOut
+Decide 9.NumberOut True
