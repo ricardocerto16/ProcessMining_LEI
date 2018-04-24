@@ -1,0 +1,301 @@
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 0.14243801 at the following block:
+
+ *   33 211$            WRITE,eventLog,"%s,":Entity.Type:NEXT(212$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 0.14243801 at the following block:
+
+ *   34 212$            WRITE,eventLog,"%s,":Entity.Sequence:NEXT(213$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 3
+A runtime error was detected at time 0.31915391 at the following block:
+
+ *  120 425$            WRITE,eventLog,"%s,":Entity.Type:NEXT(426$);
+
+Data type mismatch.
+Value: 1.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 3
+A runtime error was detected at time 0.31915391 at the following block:
+
+ *  121 426$            WRITE,eventLog,"%s,":Entity.Sequence:NEXT(427$);
+
+Data type mismatch.
+Value: 1.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 0.46143603 at the following block:
+
+ *  207 639$            WRITE,eventLog,"%s,":Entity.Type:NEXT(640$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 0.46143603 at the following block:
+
+ *  208 640$            WRITE,eventLog,"%s,":Entity.Sequence:NEXT(641$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 3
+A runtime error was detected at time 1.0179885 at the following block:
+
+ *  293 853$            WRITE,eventLog,"%s,":Entity.Type:NEXT(854$);
+
+Data type mismatch.
+Value: 1.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 3
+A runtime error was detected at time 1.0179885 at the following block:
+
+ *  294 854$            WRITE,eventLog,"%s,":Entity.Sequence:NEXT(855$);
+
+Data type mismatch.
+Value: 1.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 1.9749008 at the following block:
+
+ *  322 924$            WRITE,eventLog,"%s,":Entity.Type:NEXT(925$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 1.9749008 at the following block:
+
+ *  323 925$            WRITE,eventLog,"%s,":Entity.Sequence:NEXT(926$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 2.1781087 at the following block:
+
+ *  354 998$            WRITE,eventLog,"%s,":Entity.Type:NEXT(999$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 2.1781087 at the following block:
+
+ *  355 999$            WRITE,eventLog,"%s,":Entity.Sequence:NEXT(1000$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 2.293388 at the following block:
+
+ *  435 1207$           WRITE,eventLog,"%s,":Entity.Type:NEXT(1208$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+17707:CSTERR
+Entity: 2
+A runtime error was detected at time 2.293388 at the following block:
+
+ *  436 1208$           WRITE,eventLog,"%s,":Entity.Sequence:NEXT(1209$);
+
+Data type mismatch.
+Value: 2.0
+Data Type: Real
+Expected Data Type: String
+----------------------------------------------------------------------
+
+
+
+                                      ARENA Simulation Results
+                                                 DPS
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 4/24/2018
+Analyst: DPS                                                         Model revision date: 4/24/2018
+
+Replication ended at time      : 2.293388 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Prato.VATime                                .73327     (Insuf)    .73327     .73327          1    
+Prato.NVATime                               .00000     (Insuf)    .00000     .00000          1    
+Prato.WaitTime                              .28472     (Insuf)    .28472     .28472          1    
+Prato.TranTime                              .00000     (Insuf)    .00000     .00000          1    
+Prato.OtherTime                             .00000     (Insuf)    .00000     .00000          1    
+Prato.TotalTime                             1.0179     (Insuf)    1.0179     1.0179          1    
+Jarra.VATime                                1.5601     (Insuf)    1.5601     1.5601          1    
+Jarra.NVATime                               .00000     (Insuf)    .00000     .00000          1    
+Jarra.WaitTime                              .73327     (Insuf)    .73327     .73327          1    
+Jarra.TranTime                              .00000     (Insuf)    .00000     .00000          1    
+Jarra.OtherTime                             .00000     (Insuf)    .00000     .00000          1    
+Jarra.TotalTime                             2.2933     (Insuf)    2.2933     2.2933          1    
+Maquina6.3.Queue.WaitingTime                    --         --         --         --          0
+Maquina6.2.Queue.WaitingTime                    --         --         --         --          0
+Maquina6.1.Queue.WaitingTime                .00000     (Insuf)    .00000     .00000          1    
+Maquina5.3.Queue.WaitingTime                    --         --         --         --          0
+Maquina5.2.Queue.WaitingTime                    --         --         --         --          0
+Maquina5.1.Queue.WaitingTime                .00000     (Insuf)    .00000     .00000          1    
+Maquina4.2.Queue.WaitingTime                .55655     (Insuf)    .55655     .55655          1    
+Maquina4.1.Queue.WaitingTime                .14228     (Insuf)    .14228     .14228          1    
+Maquina3.3.Queue.WaitingTime                    --         --         --         --          0
+Maquina3.2.Queue.WaitingTime                    --         --         --         --          0
+Maquina3.1.Queue.WaitingTime                .17672     (Insuf)    .17672     .17672          1    
+Maquina2.3.Queue.WaitingTime                    --         --         --         --          0
+Maquina2.2.Queue.WaitingTime                    --         --         --         --          0
+Maquina2.1.Queue.WaitingTime                .14244     (Insuf)    .14244     .14244          1    
+Maquina1.3.Queue.WaitingTime                    --         --         --         --          0
+Maquina1.2.Queue.WaitingTime                    --         --         --         --          0
+Maquina1.1.Queue.WaitingTime                .00000     (Insuf)    .00000     .00000          1    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Prato.WIP                                   .44388     (Insuf)    .00000     1.0000     .00000    
+Jarra.WIP                                   1.0000     (Insuf)    .00000     1.0000     .00000    
+Barro.NumberBusy                            1.0000     (Insuf)    .00000     1.0000     .00000    
+Barro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Barro.Utilization                           1.0000     (Insuf)    .00000     1.0000     .00000    
+Maquina6.3.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina6.2.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina6.1.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina5.3.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina5.2.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina5.1.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina4.2.Queue.NumberInQueue              .24268     (Insuf)    .00000     1.0000     .00000    
+Maquina4.1.Queue.NumberInQueue              .06204     (Insuf)    .00000     1.0000     .00000    
+Maquina3.3.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina3.2.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina3.1.Queue.NumberInQueue              .07705     (Insuf)    .00000     1.0000     .00000    
+Maquina2.3.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina2.2.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina2.1.Queue.NumberInQueue              .06211     (Insuf)    .00000     1.0000     .00000    
+Maquina1.3.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina1.2.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Maquina1.1.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Prato.NumberIn                              1.0000    
+Prato.NumberOut                             1.0000    
+Jarra.NumberIn                              1.0000    
+Jarra.NumberOut                             1.0000    
+Barro.NumberSeized                          7.0000    
+Barro.ScheduledUtilization                  1.0000    
+System.NumberOut                            2.0000    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run completed with 14 error(s) and 0 warning(s).

@@ -1,0 +1,29 @@
+
+Etapas:
+
+		1-Preparação (106)
+		2-Moldagem (110)	
+		3-Corte	(114)
+		4-Cozedura (118)
+		5-Pintura (121)	
+		6-Envernizamento (8)
+
+
+
+Produtos: Etapas
+		
+	sp1->	Vaso Simples: 1,2,4 
+
+	sp2->	Azulejo Decorativo: 1,3,4,5,6
+
+	sp3->	Jarra: 1,2,4,6 
+
+	sp4->	Floreira Pintada: 1,2,4,5
+
+	sp5->	Tijolo: 2,4 
+
+	sp6->	Taça ondulada: 1,2,3,4,6
+
+	sp7->	Prato Simples: 1,2,3,4,6
+
+	sp8->	Prato Pintado: 1,2,3,4,5,6
