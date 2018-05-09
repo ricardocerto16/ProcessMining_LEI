@@ -1,0 +1,217 @@
+
+                                      ARENA Simulation Results
+                                                 DPS
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/ 9/2018
+Analyst: DPS                                                         Model revision date: 5/ 9/2018
+
+Replication ended at time      : 10607.873 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Azulejo Decorativo.VATime                   1.3424     .01156     .98571     1.7119        500    
+Azulejo Decorativo.NVATime                  .00000     .00000     .00000     .00000        500    
+Azulejo Decorativo.WaitTime                 9476.7     (Corr)     316.43     10016.        500    
+Azulejo Decorativo.TranTime                 .00000     .00000     .00000     .00000        500    
+Azulejo Decorativo.OtherTime                .00000     .00000     .00000     .00000        500    
+Azulejo Decorativo.TotalTime                9478.0     (Corr)     317.95     10018.        500    
+Garrafeira de Barro.VATime                  1.2742     .01521     .90870     1.7085        500    
+Garrafeira de Barro.NVATime                 .00000     .00000     .00000     .00000        500    
+Garrafeira de Barro.WaitTime                7459.2     (Corr)     155.08     9436.8        500    
+Garrafeira de Barro.TranTime                .00000     .00000     .00000     .00000        500    
+Garrafeira de Barro.OtherTime               .00000     .00000     .00000     .00000        500    
+Garrafeira de Barro.TotalTime               7460.5     (Corr)     156.25     9438.3        500    
+Floreira Pintada.VATime                     1.3055     .01235     .93197     1.7056        500    
+Floreira Pintada.NVATime                    .00000     .00000     .00000     .00000        500    
+Floreira Pintada.WaitTime                   7409.2     (Corr)     122.36     9349.2        500    
+Floreira Pintada.TranTime                   .00000     .00000     .00000     .00000        500    
+Floreira Pintada.OtherTime                  .00000     .00000     .00000     .00000        500    
+Floreira Pintada.TotalTime                  7410.6     (Corr)     123.49     9350.4        500    
+Tijolo Cortado.VATime                       1.1280     .01543     .75565     1.5189        500    
+Tijolo Cortado.NVATime                      .00000     .00000     .00000     .00000        500    
+Tijolo Cortado.WaitTime                     4494.4     (Corr)     33.007     6630.8        500    
+Tijolo Cortado.TranTime                     .00000     .00000     .00000     .00000        500    
+Tijolo Cortado.OtherTime                    .00000     .00000     .00000     .00000        500    
+Tijolo Cortado.TotalTime                    4495.5     (Corr)     34.061     6632.1        500    
+Copo Festivo.VATime                         1.4821     .01549     1.1203     1.8580        500    
+Copo Festivo.NVATime                        .00000     .00000     .00000     .00000        500    
+Copo Festivo.WaitTime                       9440.1     (Corr)     764.48     10016.        500    
+Copo Festivo.TranTime                       .00000     .00000     .00000     .00000        500    
+Copo Festivo.OtherTime                      .00000     .00000     .00000     .00000        500    
+Copo Festivo.TotalTime                      9441.6     (Corr)     766.33     10017.        500    
+Tijolo.VATime                               .95107     .01582     .66033     1.2990        500    
+Tijolo.NVATime                              .00000     .00000     .00000     .00000        500    
+Tijolo.WaitTime                             2223.7     (Corr)     4.8012     3647.2        500    
+Tijolo.TranTime                             .00000     .00000     .00000     .00000        500    
+Tijolo.OtherTime                            .00000     .00000     .00000     .00000        500    
+Tijolo.TotalTime                            2224.7     (Corr)     5.5933     3647.8        500    
+Cão de Barro.VATime                         1.5853     (Corr)     1.2443     2.0464        500    
+Cão de Barro.NVATime                        .00000     .00000     .00000     .00000        500    
+Cão de Barro.WaitTime                       10139.     (Corr)     2133.7     10403.        500    
+Cão de Barro.TranTime                       .00000     .00000     .00000     .00000        500    
+Cão de Barro.OtherTime                      .00000     .00000     .00000     .00000        500    
+Cão de Barro.TotalTime                      10140.     (Corr)     2135.2     10405.        500    
+Prato Pintado.VATime                        1.3649     .01361     1.0302     1.7641        500    
+Prato Pintado.NVATime                       .00000     .00000     .00000     .00000        500    
+Prato Pintado.WaitTime                      9339.4     (Corr)     469.33     10016.        500    
+Prato Pintado.TranTime                      .00000     .00000     .00000     .00000        500    
+Prato Pintado.OtherTime                     .00000     .00000     .00000     .00000        500    
+Prato Pintado.TotalTime                     9340.8     (Corr)     470.57     10017.        500    
+Assador de Chouriço em Barro.VATime         1.3659     .01425     1.0347     1.7938        500    
+Assador de Chouriço em Barro.NVATime        .00000     .00000     .00000     .00000        500    
+Assador de Chouriço em Barro.WaitTime       9344.0     (Corr)     873.89     10016.        500    
+Assador de Chouriço em Barro.TranTime       .00000     .00000     .00000     .00000        500    
+Assador de Chouriço em Barro.OtherTime      .00000     .00000     .00000     .00000        500    
+Assador de Chouriço em Barro.TotalTime      9345.4     (Corr)     875.26     10017.        500    
+Vaso Simples.VATime                         1.1126     .01548     .76876     1.5206        500    
+Vaso Simples.NVATime                        .00000     .00000     .00000     .00000        500    
+Vaso Simples.WaitTime                       4807.3     (Corr)     14.476     6703.9        500    
+Vaso Simples.TranTime                       .00000     .00000     .00000     .00000        500    
+Vaso Simples.OtherTime                      .00000     .00000     .00000     .00000        500    
+Vaso Simples.TotalTime                      4808.4     (Corr)     15.741     6705.0        500    
+Taça ondulada.VATime                        1.3791     .01524     1.0511     1.7536        500    
+Taça ondulada.NVATime                       .00000     .00000     .00000     .00000        500    
+Taça ondulada.WaitTime                      9543.4     (Corr)     610.61     10016.        500    
+Taça ondulada.TranTime                      .00000     .00000     .00000     .00000        500    
+Taça ondulada.OtherTime                     .00000     .00000     .00000     .00000        500    
+Taça ondulada.TotalTime                     9544.7     (Corr)     611.94     10017.        500    
+Prato Simples.VATime                        1.3676     .01115     1.0201     1.7756        500    
+Prato Simples.NVATime                       .00000     .00000     .00000     .00000        500    
+Prato Simples.WaitTime                      9362.3     (Corr)     462.17     10016.        500    
+Prato Simples.TranTime                      .00000     .00000     .00000     .00000        500    
+Prato Simples.OtherTime                     .00000     .00000     .00000     .00000        500    
+Prato Simples.TotalTime                     9363.7     (Corr)     463.66     10017.        500    
+Jarra.VATime                                1.2172     .01238     .91134     1.6312        500    
+Jarra.NVATime                               .00000     .00000     .00000     .00000        500    
+Jarra.WaitTime                              7559.0     (Corr)     85.327     9471.9        500    
+Jarra.TranTime                              .00000     .00000     .00000     .00000        500    
+Jarra.OtherTime                             .00000     .00000     .00000     .00000        500    
+Jarra.TotalTime                             7560.2     (Corr)     86.336     9473.2        500    
+Cinzeiro.VATime                             1.3587     .01342     .99305     1.7681        500    
+Cinzeiro.NVATime                            .00000     .00000     .00000     .00000        500    
+Cinzeiro.WaitTime                           9402.6     (Corr)     706.18     10016.        500    
+Cinzeiro.TranTime                           .00000     .00000     .00000     .00000        500    
+Cinzeiro.OtherTime                          .00000     .00000     .00000     .00000        500    
+Cinzeiro.TotalTime                          9404.0     (Corr)     707.48     10017.        500    
+Pipo de Barro Pintado.VATime                1.5786     .01670     1.2211     1.9660        500    
+Pipo de Barro Pintado.NVATime               .00000     .00000     .00000     .00000        500    
+Pipo de Barro Pintado.WaitTime              10011.     (Corr)     2488.8     10403.        500    
+Pipo de Barro Pintado.TranTime              .00000     .00000     .00000     .00000        500    
+Pipo de Barro Pintado.OtherTime             .00000     .00000     .00000     .00000        500    
+Pipo de Barro Pintado.TotalTime             10013.     (Corr)     2490.3     10405.        500    
+Jarra Pintada.VATime                        1.4020     .01424     1.0090     1.7852        500    
+Jarra Pintada.NVATime                       .00000     .00000     .00000     .00000        500    
+Jarra Pintada.WaitTime                      9483.2     (Corr)     805.40     10016.        500    
+Jarra Pintada.TranTime                      .00000     .00000     .00000     .00000        500    
+Jarra Pintada.OtherTime                     .00000     .00000     .00000     .00000        500    
+Jarra Pintada.TotalTime                     9484.6     (Corr)     806.53     10017.        500    
+Maquina6.3.Queue.WaitingTime                1748.5     (Corr)     73.968     2959.8       1635    
+Maquina6.2.Queue.WaitingTime                1754.5     (Corr)     64.287     2961.5       1646    
+Maquina6.1.Queue.WaitingTime                1778.4     (Corr)     74.466     2958.6       1719    
+Maquina5.3.Queue.WaitingTime                2332.5     (Corr)     176.96     2958.5        990    
+Maquina5.2.Queue.WaitingTime                2398.8     (Corr)     153.03     2961.6       1017    
+Maquina5.1.Queue.WaitingTime                2360.6     (Corr)     57.607     2961.2        993    
+Maquina4.2.Queue.WaitingTime                2523.8     (Corr)     4.3495     2961.5       3974    
+Maquina4.1.Queue.WaitingTime                2527.7     (Corr)     11.512     2959.8       4026    
+Maquina3.3.Queue.WaitingTime                2202.7     (Corr)     13.050     2935.8       1857    
+Maquina3.2.Queue.WaitingTime                2178.0     (Corr)     20.947     2936.1       1809    
+Maquina3.1.Queue.WaitingTime                2202.7     (Corr)     3.5797     2936.2       1834    
+Maquina2.3.Queue.WaitingTime                1487.5     (Corr)     2.9644     2236.1       2593    
+Maquina2.2.Queue.WaitingTime                1496.2     (Corr)     3.1475     2233.1       2446    
+Maquina2.1.Queue.WaitingTime                1489.5     (Corr)     .45171     2233.2       2461    
+Maquina1.3.Queue.WaitingTime                785.39     (Corr)     .29529     1533.9       2395    
+Maquina1.2.Queue.WaitingTime                765.17     (Corr)     .00000     1531.1       2304    
+Maquina1.1.Queue.WaitingTime                759.30     (Corr)     .13131     1535.1       2301    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Azulejo Decorativo.WIP                      446.74     (Corr)     .00000     499.00     .00000    
+Garrafeira de Barro.WIP                     351.65     (Corr)     .00000     497.00     .00000    
+Floreira Pintada.WIP                        349.29     (Corr)     .00000     498.00     .00000    
+Tijolo Cortado.WIP                          211.89     (Corr)     .00000     490.00     .00000    
+Copo Festivo.WIP                            445.02     (Corr)     .00000     500.00     .00000    
+Tijolo.WIP                                  104.86     (Corr)     .00000     466.00     .00000    
+Cão de Barro.WIP                            477.98     (Corr)     .00000     500.00     .00000    
+Prato Pintado.WIP                           440.27     (Corr)     .00000     499.00     .00000    
+Assador de Chouriço em Barro.WIP            440.49     (Corr)     .00000     500.00     .00000    
+Vaso Simples.WIP                            226.64     (Corr)     .00000     496.00     .00000    
+Taça ondulada.WIP                           449.89     (Corr)     .00000     500.00     .00000    
+Prato Simples.WIP                           441.35     (Corr)     .00000     499.00     .00000    
+Jarra.WIP                                   356.35     (Corr)     .00000     497.00     .00000    
+Cinzeiro.WIP                                443.25     (Corr)     .00000     500.00     .00000    
+Pipo de Barro Pintado.WIP                   471.96     (Corr)     .00000     500.00     .00000    
+Jarra Pintada.WIP                           447.05     (Corr)     .00000     500.00     .00000    
+Barro.NumberBusy                            1.0000     (Insuf)    .00000     1.0000     .00000    
+Barro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Barro.Utilization                           1.0000     (Insuf)    .00000     1.0000     .00000    
+Maquina6.3.Queue.NumberInQueue              269.50     (Corr)     .00000     938.00     .00000    
+Maquina6.2.Queue.NumberInQueue              272.24     (Corr)     .00000     944.00     .00000    
+Maquina6.1.Queue.NumberInQueue              288.20     (Corr)     .00000     944.00     .00000    
+Maquina5.3.Queue.NumberInQueue              217.68     (Corr)     .00000     483.00     .00000    
+Maquina5.2.Queue.NumberInQueue              229.97     (Corr)     .00000     520.00     .00000    
+Maquina5.1.Queue.NumberInQueue              220.97     (Corr)     .00000     474.00     .00000    
+Maquina4.2.Queue.NumberInQueue              945.49     (Corr)     .00000     1694.0     .00000    
+Maquina4.1.Queue.NumberInQueue              959.36     (Corr)     .00000     1708.0     .00000    
+Maquina3.3.Queue.NumberInQueue              385.61     (Corr)     .00000     1123.0     .00000    
+Maquina3.2.Queue.NumberInQueue              371.43     (Corr)     .00000     1086.0     .00000    
+Maquina3.1.Queue.NumberInQueue              380.82     (Corr)     .00000     1124.0     .00000    
+Maquina2.3.Queue.NumberInQueue              363.61     (Corr)     .00000     1674.0     .00000    
+Maquina2.2.Queue.NumberInQueue              345.00     (Corr)     .00000     1583.0     .00000    
+Maquina2.1.Queue.NumberInQueue              345.57     (Corr)     .00000     1591.0     .00000    
+Maquina1.3.Queue.NumberInQueue              177.32     (Corr)     .00000     1836.0     .00000    
+Maquina1.2.Queue.NumberInQueue              166.19     (Corr)     .00000     1714.0     .00000    
+Maquina1.1.Queue.NumberInQueue              164.70     (Corr)     .00000     1695.0     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Azulejo Decorativo.NumberIn                 500.00    
+Azulejo Decorativo.NumberOut                500.00    
+Garrafeira de Barro.NumberIn                500.00    
+Garrafeira de Barro.NumberOut               500.00    
+Floreira Pintada.NumberIn                   500.00    
+Floreira Pintada.NumberOut                  500.00    
+Tijolo Cortado.NumberIn                     500.00    
+Tijolo Cortado.NumberOut                    500.00    
+Copo Festivo.NumberIn                       500.00    
+Copo Festivo.NumberOut                      500.00    
+Tijolo.NumberIn                             500.00    
+Tijolo.NumberOut                            500.00    
+Cão de Barro.NumberIn                       500.00    
+Cão de Barro.NumberOut                      500.00    
+Prato Pintado.NumberIn                      500.00    
+Prato Pintado.NumberOut                     500.00    
+Assador de Chouriço em Barro.NumberIn       500.00    
+Assador de Chouriço em Barro.NumberOut      500.00    
+Vaso Simples.NumberIn                       500.00    
+Vaso Simples.NumberOut                      500.00    
+Taça ondulada.NumberIn                      500.00    
+Taça ondulada.NumberOut                     500.00    
+Prato Simples.NumberIn                      500.00    
+Prato Simples.NumberOut                     500.00    
+Jarra.NumberIn                              500.00    
+Jarra.NumberOut                             500.00    
+Cinzeiro.NumberIn                           500.00    
+Cinzeiro.NumberOut                          500.00    
+Pipo de Barro Pintado.NumberIn              500.00    
+Pipo de Barro Pintado.NumberOut             500.00    
+Jarra Pintada.NumberIn                      500.00    
+Jarra Pintada.NumberOut                     500.00    
+Barro.NumberSeized                          36000.    
+Barro.ScheduledUtilization                  1.0000    
+System.NumberOut                            8000.0    
+
+
+Simulation run time: 1.22 minutes.
+Simulation run complete.

@@ -9,5 +9,5 @@ MaxScanRows=8
 MaxBufferSize=2048
 FIL=MS Access
 DriverId=281
-DefaultDir=C:\Users\PC 01\AppData\Roaming\Rockwell Software\Arena
-DBQ=D:\v2_new\teste\teste.accdb
+DefaultDir=d:\v3
+DBQ=D:\v3\v3chance.accdb
