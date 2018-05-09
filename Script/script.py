@@ -1,37 +1,79 @@
-file = open("500chance.csv","r")
-file2 = open("log500chance.csv","w")
-#print("open file")
+from datetime import datetime, timedelta
+
+file = open("1_prod_cada.csv","r")
+file2 = open("log1prod.csv","w")
 
 for line in file:
     prev = line.split(",")
-    datainicio = prev[4] + "/" + prev[5] + "/" + prev[6] + " " + prev[7] + ":" + prev[8]
-    datafinal = prev[9] + "/" + prev[10] + "/" + prev[11] + " " + prev[12] + ":" + prev[13]
-    material = prev[1]
-    maquina = prev[3]
-    if material == '4':
+    datainicio = datetime(int(prev[18]),int(prev[19]), int(prev[20]), int(prev[21]), int(prev[22]))
+    dataf = datetime(int(prev[23]),int(prev[24]),int(prev[25]),int(prev[26]),int(prev[27]))
+
+
+    for x in range(1, 16):
+        if prev[x] != '0':
+          material = prev[x]
+          break
+
+
+    maquina = prev[17]
+    if material == '1':
         material = "Vaso Simples"
         seq = "1 -> 2 -> 4"
-    if material == '5':
+    if material == '2':
         material = "Azulejo Decorativo"
         seq = "1 -> 3 -> 4 -> 5 -> 6"
-    if material == '6':
+    if material == '3':
         material = "Jarra"
         seq = "1 -> 2 -> 4 -> 6"
-    if material == '7':
+    if material == '4':
         material = "Floreira Pintada"
         seq = "1 -> 2 -> 4 -> 5"
-    if material == '8':
+    if material == '5':
         material = "Tijolo"
         seq = "2 -> 4"
-    if material == '9':
-        material = "Taça Ondulada"
+    if material == '6':
+        material = "Taca Ondulada"
         seq = "1 -> 2 -> 3 -> 4 -> 6"
-    if material == '10':
+        td = timedelta(minutes=10)
+        dataf = str(dataf + td)
+    if material == '7':
         material = "Prato Simples"
         seq = "1 -> 2 -> 3 -> 4 -> 6"
-    if material == '11':
+    if material == '8':
         material = "Prato Pintado"
         seq = "1 -> 2 -> 4 -> 5 -> 6"
+    if material == '9':
+        material = "Tijolo Cortado"
+        seq = "2 -> 3 -> 4"
+    if material == '10':
+        material = "Cinzeiro"
+        seq = "1 -> 2 -> 3 -> 4 -> 6"
+        td = timedelta(minutes=3)
+        dataf = str(dataf + td)
+    if material == '11':
+        material = "Copo Festivo"
+        seq = "1 -> 2 -> 3 -> 4 -> 5"
+    if material == '12':
+        material = "Jarra Pintada"
+        seq = "1 -> 2 -> 4 -> 5 -> 6"
+    if material == '13':
+        material = "Cao de Barro"
+        seq = "1 -> 2 -> 3 -> 4 -> 5 -> 6"
+        td = timedelta(minutes=25)
+        dataf = str(dataf + td)
+    if material == '14':
+        material = "Garrafeira de Barro"
+        seq = "1 -> 2 -> 3 -> 4"
+    if material == '15':
+        material = "Pipo de Barro Pintado"
+        seq = "1 -> 2 -> 3 -> 4 -> 5 -> 6"
+        td = timedelta(minutes=10)
+        dataf = str(dataf + td)
+    if material == '16':
+        material = "Assadar de Chouriço em Barro"
+        seq = "1 -> 2 -> 3 -> 4 -> 6"
+        td = timedelta(minutes=15)
+        dataf = str(dataf + td)
 
 
     if (maquina == "Maquina1.1" or maquina == "Maquina1.2" or maquina == "Maquina1.3"):
@@ -48,9 +90,9 @@ for line in file:
         maquina = maquina + " -> Envernizamento"
 
 
+    #datafinal = dataf
 
-
-    line = prev[0] + "," + material + "," + seq + "," + maquina + "," + datainicio + "," + datafinal + "," + "\n"
+    line = prev[0] + "," + material + "," + seq + "," + maquina + "," + str(datainicio) + "," + str(dataf) + "," + "\n"
     file2.writelines(line)
 
 
