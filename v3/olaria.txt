@@ -1,12 +1,12 @@
 ﻿
 Etapas:
 
-		1-Preparação (106)
-		2-Moldagem (110)	
-		3-Corte	(114)
-		4-Cozedura (118)
-		5-Pintura (121)	
-		6-Envernizamento (8)
+		1-Preparação (106)		(3,5,7)
+		2-Moldagem (110)		(5,8,13)
+		3-Corte	(114)			(4,6,9)
+		4-Cozedura (118)		(20,25,30)
+		5-Pintura (121)			(3,5,10)
+		6-Envernizamento (8)	(2,4,5)
 
 
 
@@ -21,7 +21,7 @@ id_produto, entity.type,entity.sequence,Nome Maquina,Ano_Init,Mes_Init,Dia_Init,
 
 Produtos: Etapas
 		
-	sp1->	Vaso Simples: 1,2,4 
+	sp1->	Vaso Simples: 1,2,4	
 
 	sp2->	Azulejo Decorativo: 1,3,4,5,6 	
 
