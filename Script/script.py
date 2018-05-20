@@ -1,17 +1,16 @@
 import random
 from datetime import datetime, timedelta
-
 import numpy
 
-file = open("1_prod_cada.csv", "r")
-file2 = open("log1prod.csv", "w")
+file = open("500_prod_cada.csv", "r")
+file2 = open("log500prod.csv", "w")
 
 for line in file:
     prev = line.split(",")
     datainicio = datetime(int(prev[18]), int(prev[19]), int(prev[20]), int(prev[21]), int(prev[22]))
     dataf = datetime(int(prev[23]), int(prev[24]), int(prev[25]), int(prev[26]), int(prev[27]))
 
-    for x in range(1, 16):
+    for x in range(1, 17):
         if prev[x] != '0':
             material = prev[x]
             break
@@ -82,7 +81,7 @@ for line in file:
         td = timedelta(minutes=10)
 
     if material == '16':
-        material = "Assadar de Chourico em Barro"
+        material = "Assador de Chourico em Barro"
         seq = "1 -> 2 -> 3 -> 4 -> 6"
         td = timedelta(minutes=15)
 
