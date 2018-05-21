@@ -85,43 +85,143 @@ for line in file:
         seq = "1 -> 2 -> 3 -> 4 -> 6"
         td = timedelta(minutes=15)
 
+
+
+
     maquina = prev[17]
 
-    if maquina == "Maquina1.1" or maquina == "Maquina1.2" or maquina == "Maquina1.3":
+    if maquina == "Maquina1.1":
         maquina = maquina + " -> Preparacao"
         tempo = timedelta(minutes=random.choice([3, 4, 5, 6, 7, 8]))
         dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
 
-    if maquina == "Maquina2.1" or maquina == "Maquina2.2" or maquina == "Maquina2.3":
-        maquina = maquina + " -> Moldagem"
-        tempo = timedelta(minutes=random.choice([5, 6, 7, 8, 9, 10, 11, 12, 13]))
-        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
+    if maquina == "Maquina1.2":
+        maquina = maquina + " -> Preparacao"
+        tempo = timedelta(minutes=random.choice([3, 4, 5, 6, 7, 8]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.2, 0.15, 0.3, 0.25, 0.05, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
 
-    if maquina == "Maquina3.1" or maquina == "Maquina3.2" or maquina == "Maquina3.3":
+    if maquina == "Maquina1.3":
+        maquina = maquina + " -> Preparacao"
+        tempo = timedelta(minutes=random.choice([3, 4, 5, 6, 7, 8]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.05, 0.3, 0.05, 0.05, 0.5, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+
+
+
+    if maquina == "Maquina2.1":
+        maquina = maquina + " -> Moldagem"
+        tempo = timedelta(minutes=random.choice([5, 6, 7, 8, 9, 10, 11, 12, 13]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.1, 0.2, 0.5, 0.05, 0.05, 0.1]))
+        dataf = str(datainicio + tempo + td + dp)
+
+    if maquina == "Maquina2.2":
+        maquina = maquina + " -> Moldagem"
+        tempo = timedelta(minutes=random.choice([5, 6, 7, 8, 9, 10, 12]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5], p=[0.1, 0.2, 0.1, 0.1, 0.5]))
+        dataf = str(datainicio + tempo + td + dp)
+
+
+    if maquina == "Maquina2.3":
+        maquina = maquina + " -> Moldagem"
+        tempo = timedelta(minutes=random.choice([5, 6, 7, 8, 9, 10, 11, 12, 13]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.05, 0.1, 0.2, 0.1, 0.5, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+
+
+
+    if maquina == "Maquina3.1":
+        maquina = maquina + " -> Corte"
+        tempo = timedelta(minutes=random.choice([4, 5, 6, 7, 8, 9]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.7, 0.1, 0.05, 0.05, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+    if maquina == "Maquina3.2":
+        maquina = maquina + " -> Corte"
+        tempo = timedelta(minutes=random.choice([4, 5, 6, 7, 8]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 4, 6], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+    if maquina == "Maquina3.3":
         maquina = maquina + " -> Corte"
         tempo = timedelta(minutes=random.choice([4, 5, 6, 7, 8, 9]))
         dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
 
-    if maquina == "Maquina4.1" or maquina == "Maquina4.2" or maquina == "Maquina4.3":
+
+
+    if maquina == "Maquina4.1":
+        maquina = maquina + " -> Cozedura"
+        tempo = timedelta(minutes=random.choice([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]))
+        dp = timedelta(minutes=numpy.random.choice([0, 5, 7, 8, 10, 12], p=[0.4, 0.2, 0.1, 0.2, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+    if maquina == "Maquina4.2":
+        maquina = maquina + " -> Cozedura"
+        tempo = timedelta(minutes=random.choice([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]))
+        dp = timedelta(minutes=numpy.random.choice([0, 5, 7, 8, 10, 12], p=[0.75, 0.05, 0.05, 0.05, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+    if maquina == "Maquina4.3":
         maquina = maquina + " -> Cozedura"
         tempo = timedelta(minutes=random.choice([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]))
         dp = timedelta(minutes=numpy.random.choice([0, 5, 7, 8, 10, 12], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
 
-    if maquina == "Maquina5.1" or maquina == "Maquina5.2" or maquina == "Maquina5.3":
+    if maquina == "Maquina4.4":
+        maquina = maquina + " -> Cozedura"
+        tempo = timedelta(minutes=random.choice([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]))
+        dp = timedelta(minutes=numpy.random.choice([0, 5, 7, 8, 10, 12], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+
+
+    if maquina == "Maquina5.1":
         maquina = maquina + " -> Pintura"
         tempo = timedelta(minutes=random.choice([3, 4, 5, 6, 7, 8, 9, 10]))
         dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
 
-    if maquina == "Maquina6.1" or maquina == "Maquina6.2" or maquina == "Maquina6.3":
+    if maquina == "Maquina5.2":
+        maquina = maquina + " -> Pintura"
+        tempo = timedelta(minutes=random.choice([3, 4, 5, 6, 7, 8, 9, 10]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.1, 0.2, 0.1, 0.5, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+    if maquina == "Maquina5.3":
+        maquina = maquina + " -> Pintura"
+        tempo = timedelta(minutes=random.choice([3, 4, 5, 6, 7, 8, 9, 10]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+
+
+
+    if maquina == "Maquina6.1":
+        maquina = maquina + " -> Envernizamento"
+        tempo = timedelta(minutes=random.choice([2, 3, 4, 5]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 4, 5], p=[0.2, 0.1, 0.1, 0.5, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+    if maquina == "Maquina6.2":
         maquina = maquina + " -> Envernizamento"
         tempo = timedelta(minutes=random.choice([2, 3, 4, 5]))
         dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 4, 5], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
+
+    if maquina == "Maquina6.3":
+        maquina = maquina + " -> Envernizamento"
+        tempo = timedelta(minutes=random.choice([2, 3, 4, 5]))
+        dp = timedelta(minutes=numpy.random.choice([0, 0, 0, 3, 4, 5], p=[0.75, 0.05, 0.05, 0.05, 0.05, 0.05]))
+        dataf = str(datainicio + tempo + td + dp)
+
+
+
+
+
 
 
     line = prev[0] + "," + material + "," + seq + "," + maquina + "," + str(datainicio) + "," + str(dataf) + "," + "\n"
