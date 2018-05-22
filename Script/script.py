@@ -1,3 +1,4 @@
+# coding=utf-8
 import random
 from datetime import datetime, timedelta
 import numpy
@@ -67,7 +68,7 @@ for line in file:
         seq = "1 -> 2 -> 4 -> 5 -> 6"
 
     if material == '13':
-        material = "Cao de Barro"
+        material = "Cao de Loica"
         seq = "1 -> 2 -> 3 -> 4 -> 5 -> 6"
         td = timedelta(minutes=25)
 
@@ -113,21 +114,20 @@ for line in file:
 
     if maquina == "Maquina2.1":
         maquina = maquina + " -> Moldagem"
-        tempo = timedelta(minutes=random.choice([5, 6, 7, 8, 9, 10, 11, 12, 13]))
-        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.1, 0.2, 0.5, 0.05, 0.05, 0.1]))
+        tempo = timedelta(minutes=random.choice([4, 7, 11]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5], p=[0.1, 0.2, 0.1, 0.1, 0.5]))
         dataf = str(datainicio + tempo + td + dp)
 
     if maquina == "Maquina2.2":
         maquina = maquina + " -> Moldagem"
-        tempo = timedelta(minutes=random.choice([5, 6, 7, 8, 9, 10, 12]))
-        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5], p=[0.1, 0.2, 0.1, 0.1, 0.5]))
+        tempo = timedelta(minutes=random.choice([4, 7, 12]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 6], p=[0.1, 0.2, 0.5, 0.05, 0.05, 0.1]))
         dataf = str(datainicio + tempo + td + dp)
-
 
     if maquina == "Maquina2.3":
         maquina = maquina + " -> Moldagem"
-        tempo = timedelta(minutes=random.choice([5, 6, 7, 8, 9, 10, 11, 12, 13]))
-        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.05, 0.1, 0.2, 0.1, 0.5, 0.05]))
+        tempo = timedelta(minutes=random.choice([4, 8, 10]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 6], p=[0.05, 0.1, 0.2, 0.1, 0.5, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
 
 
@@ -148,7 +148,7 @@ for line in file:
     if maquina == "Maquina3.3":
         maquina = maquina + " -> Corte"
         tempo = timedelta(minutes=random.choice([4, 5, 6, 7, 8, 9]))
-        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.5, 0.2, 0.1, 0.1, 0.05, 0.05]))
+        dp = timedelta(minutes=numpy.random.choice([0, 1, 2, 3, 5, 7], p=[0.3, 0.4, 0.1, 0.1, 0.05, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
 
 
@@ -156,13 +156,13 @@ for line in file:
     if maquina == "Maquina4.1":
         maquina = maquina + " -> Cozedura"
         tempo = timedelta(minutes=random.choice([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]))
-        dp = timedelta(minutes=numpy.random.choice([0, 5, 7, 8, 10, 12], p=[0.4, 0.2, 0.1, 0.2, 0.05, 0.05]))
+        dp = timedelta(minutes=numpy.random.choice([0, 5, 8, 7, 10, 12], p=[0, 0, 0.35, 0.4, 0.2, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
 
     if maquina == "Maquina4.2":
         maquina = maquina + " -> Cozedura"
         tempo = timedelta(minutes=random.choice([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]))
-        dp = timedelta(minutes=numpy.random.choice([0, 5, 7, 8, 10, 12], p=[0.75, 0.05, 0.05, 0.05, 0.05, 0.05]))
+        dp = timedelta(minutes=numpy.random.choice([0, 5, 8, 7, 10, 12], p=[0.2, 0.1, 0.1, 0.1, 0.4, 0.1]))
         dataf = str(datainicio + tempo + td + dp)
 
     if maquina == "Maquina4.3":
@@ -217,9 +217,6 @@ for line in file:
         tempo = timedelta(minutes=random.choice([2, 3, 4, 5]))
         dp = timedelta(minutes=numpy.random.choice([0, 0, 0, 3, 4, 5], p=[0.75, 0.05, 0.05, 0.05, 0.05, 0.05]))
         dataf = str(datainicio + tempo + td + dp)
-
-
-
 
 
 
