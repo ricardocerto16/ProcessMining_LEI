@@ -1,1 +1,1 @@
-# DataMining_LEI
+# ProcessMining_LEI
